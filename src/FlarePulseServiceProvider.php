@@ -2,7 +2,8 @@
 
 namespace Spatie\FlarePulse;
 
-use Spatie\FlarePulse\Commands\FlarePulseCommand;
+use Livewire\Livewire;
+use Spatie\FlarePulse\Livewire\FlarePulseCardComponent;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
 
@@ -18,6 +19,6 @@ class FlarePulseServiceProvider extends PackageServiceProvider
 
     public function packageBooted()
     {
-
+        Livewire::component('flare.pulse', FlarePulseCardComponent::class);
     }
 }
