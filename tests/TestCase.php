@@ -2,7 +2,6 @@
 
 namespace Spatie\FlarePulse\Tests;
 
-use Illuminate\Database\Eloquent\Factories\Factory;
 use Livewire\LivewireServiceProvider;
 use Orchestra\Testbench\TestCase as Orchestra;
 use Spatie\FlarePulse\FlarePulseServiceProvider;
