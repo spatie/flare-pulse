@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Spatie\FlarePulse\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FlarePulseCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'flare-pulse';
 
     public $description = 'My command';
 
