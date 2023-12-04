@@ -2,9 +2,9 @@
 
 namespace Spatie\FlarePulse;
 
+use Spatie\FlarePulse\Commands\FlarePulseCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Spatie\FlarePulse\Commands\FlarePulseCommand;
 
 class FlarePulseServiceProvider extends PackageServiceProvider
 {
