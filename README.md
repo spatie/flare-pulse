@@ -1,8 +1,8 @@
 # Display Flare statistics on your Pulse dashboard
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/flare-pulse.svg?style=flat-square)](https://packagist.org/packages/spatie/flare-pulse)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/spatie/flare-pulse/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/spatie/flare-pulse/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/actions/workflow/status/spatie/flare-pulse/fix-php-code-style-issues.yml?branch=main&label=code%20style&style=flat-square)](https://github.com/spatie/flare-pulse/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://github.com/spatie/flare-pulse/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/flare-pulse/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://github.com/spatie/flare-pulse/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/spatie/flare-pulse/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/flare-pulse.svg?style=flat-square)](https://packagist.org/packages/spatie/flare-pulse)
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
